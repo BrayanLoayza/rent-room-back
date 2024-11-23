@@ -1,0 +1,33 @@
+# Python cache
+*__pycache__/
+*.pyc
+
+# Virtualenv dirs
+*env/
+*venv/
+
+# .env files
+*.env
+*.env.local
+
+# VSCODE
+.vscode/
+
+# Media dir
+media/carrusel_servicio/
+media/usuarios/perfil/
+
+# Cache dir
+cache/
+
+# Django static dir
+static/
+
+# Log dir
+log/
+
+# Vim env
+.vim/
+
+#keys dir
+keys/
